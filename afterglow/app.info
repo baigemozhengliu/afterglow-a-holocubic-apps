@@ -1,0 +1,11 @@
+name = Afterglow
+name_zh_cn = Afterglow 余辉
+name_en = Afterglow
+kind = app
+category = clock
+catalog_scope = community
+entry = main.lua
+icon = main.png
+description = 320x240 retro display clock with IMU mode switching and microphone waveform
+description_zh = 320x240 复古显示器时钟，陀螺仪切换模式并实时显示麦克风波形
+version = 1.0.0
