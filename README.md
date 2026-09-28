@@ -8,8 +8,11 @@
 
 适用于 HoloCubic 320×240 屏幕的复古仪表时钟，提供 IBM 3270 等宽时间码、日期与实时麦克风波形。
 具备三种色彩模式，通过倾斜切换
+
 <img width="320" height="240" alt="screenshot-el" src="https://github.com/user-attachments/assets/82c404e2-ba4a-4db8-ac7a-c38d939676b7" />
+
 <img width="320" height="240" alt="screenshot-vfd" src="https://github.com/user-attachments/assets/e87a6898-1c45-44ce-9269-cabf19584004" />
+
 <img width="320" height="240" alt="screenshot-crt" src="https://github.com/user-attachments/assets/5322dd0f-3012-4da7-9eed-efb5135b3db3" />
 
 
